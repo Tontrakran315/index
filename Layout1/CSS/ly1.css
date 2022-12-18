@@ -1,0 +1,65 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.maino{
+    background-color: rgb(95, 95, 95);
+    padding: 10px 20px 10px 20px;
+}
+
+.logoo{
+    background-color: rgb(123, 245, 245);
+    padding: 10px;
+}
+
+.navo{
+    background-color: rgb(106, 230, 117);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.headero{
+    background-color: rgb(96, 67, 226);
+    margin-bottom: 5px;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.sidebaro{
+    background-color: rgb(243, 49, 227);
+    display: block;
+    flex: 1;
+    height: 200px;
+    margin-right: 10px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.bodyo{
+    background-color: rgb(209, 48, 48);
+    display: block;
+    flex: 2;
+    height: 200px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.footero{
+    background-color: rgb(172, 204, 55);
+    text-align: center;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}

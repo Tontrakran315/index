@@ -1,0 +1,87 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.mainw{
+    background-color: rgb(95, 95, 95);
+    padding: 10px 20px 10px 20px;
+}
+
+.logow{
+    background-color: rgb(0, 174, 255);
+    padding: 20px;
+    min-height: auto;
+
+}
+
+.navw{
+    background-color: rgb(0, 174, 255);
+    display: flex;
+    align-items: center;
+    text-align: right;
+    justify-content: center;
+    width: 100%;
+    text-align: right;
+}
+
+.containerw{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-gap: 50px;
+}
+
+.i{
+    margin-top: 10px;
+    background-color: rgb(0, 255, 255);
+    height: 100px;
+}
+
+.box1w{
+    background-color: rgb(219, 99, 99);
+    display: block;
+    flex: 1;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 300px;
+    margin-right: 20px;
+
+}
+.box2w{
+    background-color: rgb(219, 99, 99);
+    display: block;
+    flex: 1;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 300px;
+    margin-right: 20px;
+
+}
+
+.box3w{
+    background-color: rgb(219, 99, 99);
+    display: block;
+    flex: 1;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 300px;
+    margin-right: 20px;
+
+}
+
+.footerw{
+    background-color: rgb(231, 235, 18);
+    text-align: center;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
